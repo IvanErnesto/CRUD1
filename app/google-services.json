@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1095324222580",
+    "project_id": "crud-8a4ef",
+    "storage_bucket": "crud-8a4ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095324222580:android:f0ec27beb31291c8153d21",
+        "android_client_info": {
+          "package_name": "com.ivan.crudishs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095324222580-7qm06rp4in5qj8t36ubm9t3apgjco43t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3wGeyWaVp1Bq7JC2rdUkUUA_rPULRns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095324222580-7qm06rp4in5qj8t36ubm9t3apgjco43t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095324222580:android:bccf3007e45303e6153d21",
+        "android_client_info": {
+          "package_name": "com.ivan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095324222580-7qm06rp4in5qj8t36ubm9t3apgjco43t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3wGeyWaVp1Bq7JC2rdUkUUA_rPULRns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095324222580-7qm06rp4in5qj8t36ubm9t3apgjco43t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
